@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CyrusHomeAssignment.iml" filepath="$PROJECT_DIR$/.idea/modules/CyrusHomeAssignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CyrusHomeAssignment.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CyrusHomeAssignment.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-893430619/CyrusHomeAssignment.react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-893430619/CyrusHomeAssignment.react-native-community_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1582604410/CyrusHomeAssignment.react-native-community_netinfo.iml" filepath="$PROJECT_DIR$/.idea/modules/-1582604410/CyrusHomeAssignment.react-native-community_netinfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2062580171/CyrusHomeAssignment.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-2062580171/CyrusHomeAssignment.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/248335047/CyrusHomeAssignment.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/248335047/CyrusHomeAssignment.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1508252322/CyrusHomeAssignment.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1508252322/CyrusHomeAssignment.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/64275190/CyrusHomeAssignment.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/64275190/CyrusHomeAssignment.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1122319935/CyrusHomeAssignment.react-native-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/-1122319935/CyrusHomeAssignment.react-native-splash-screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-676782232/CyrusHomeAssignment.react-native-webview.iml" filepath="$PROJECT_DIR$/.idea/modules/-676782232/CyrusHomeAssignment.react-native-webview.iml" />
+    </modules>
+  </component>
+</project>

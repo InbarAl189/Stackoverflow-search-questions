@@ -1,0 +1,29 @@
+{
+    "main": {
+        "title": "Get Stack Overflow posts"
+    },
+    "theme": {
+        "darkMode": "Dark mode",
+        "lightMode": "Light mode"
+    },
+    "search": {
+        "placeholder": "Enter user ID ...",
+        "idError": "User not found... try another ID number.",
+        "generalError": "Something went wrong...\\nPlease try again."
+    },
+    "userDetails": {
+        "name": "Name",
+        "reputation": "Reputation",
+        "acceptRate": "Accept Rate",
+        "profileTitle": "Profile"
+    },
+    "questionsData": {
+        "create": "Create on",
+        "answers": "Answers",
+        "total": "Total of",
+        "found": "questions found",
+        "sortBy": "Sort by",
+        "date": "Date",
+        "views": "Views"
+    }
+}
